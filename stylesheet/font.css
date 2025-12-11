@@ -1,0 +1,156 @@
+/* //Hairline */
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Hairline.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 50;
+}
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Hairline\ Italic.ttf)
+    format('truetype');
+  font-style: italic;
+  font-weight: 50;
+}
+
+/* //thin */
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Thin.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Thin\ Italic.ttf)
+    format('truetype');
+  font-style: italic;
+  font-weight: 100;
+}
+
+/* //Extralight */
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ ExtraLight.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ ExtraLight\ Italic.ttf)
+    format('truetype');
+  font-style: italic;
+  font-weight: 200;
+}
+
+/* //Light */
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Light.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Light\ Italic.ttf)
+    format('truetype');
+  font-style: italic;
+  font-weight: 300;
+}
+
+/* //regular */
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Regular.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Italic.ttf) format('truetype');
+  font-style: italic;
+  font-weight: 400;
+}
+/* //medium */
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Medium.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Medium\ Italic.ttf)
+    format('truetype');
+  font-style: italic;
+  font-weight: 500;
+}
+
+/* //demi-bold */
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ DemiBold.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ DemiBold\ Italic.ttf)
+    format('truetype');
+  font-style: italic;
+  font-weight: 600;
+}
+/* //bold */
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Bold.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Bold\ Italic.ttf)
+    format('truetype');
+  font-style: italic;
+  font-weight: 700;
+}
+/* //extra-bold */
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ ExtraBold.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ ExtraBold\ Italic.ttf)
+    format('truetype');
+  font-style: italic;
+  font-weight: 800;
+}
+
+/* //Black */
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Black.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'TT Neoris';
+  src: url(../fonts/TT\ Neoris\ Educational\ Black\ Italic.ttf)
+    format('truetype');
+  font-style: italic;
+  font-weight: 900;
+}
