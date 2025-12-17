@@ -1,7 +1,7 @@
 /* //Hairline */
 @font-face {
   font-family: 'TT Neoris';
-  src: url(../fonts/TT\ Neoris\ Educational\ Hairline.ttf) format('truetype');
+  src: url('../fonts/TT\ Neoris\ Educational\ Hairline.ttf') format('truetype');
   font-style: normal;
   font-weight: 50;
 }
